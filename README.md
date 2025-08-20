@@ -7,3 +7,6 @@ This project will demonstrate my knowledge about,
 4. "ul" Unordered list tag used to create unordered list in HTML document.
 5. "ol" Ordered list tag used to create ordered list in HTML document.
 6. "li" List tag used to create list in HTML document.
+<strong>
+    NB: All thanks to <a href="https://www.allrecipes.com/">allrcipes</a> website because every recipe & it's information I included in this project all are from this website.
+</strong>
